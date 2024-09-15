@@ -3,8 +3,17 @@
 cyberfortify/cyberfortify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 # 💫 About Me:
-- 👋 Hi, I’m @cyberfortify<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
+- 👋 Hi, I’m @cyberfortify
+- 👀 I’m interested in Python programming, web development, and creating innovative software solutions.
+- 🌱 I’m currently learning advanced Python techniques and exploring new technologies in software development.
+- 💞️ I’m looking to collaborate on projects related to Python development, web applications, and AI.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adityavishwakarma) | [Email](mailto:work.aditya2010@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I developed a voice assistant as part of an internship project, which can understand and respond to voice commands!
+
 
 
 ## 🌐 Socials:
