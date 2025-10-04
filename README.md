@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Vishwakarma</h1>
-<h3 align="center">Python Developer🌟.</h3>
 
-<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Aditya!;I'm+a+Python+Developer...;)](https://git.io/typing-svg)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
