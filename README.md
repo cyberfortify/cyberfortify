@@ -6,11 +6,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+### 👋 Hey there, I'm Aditya!
 
-- 📫 How to reach me **work.aditya2010@gmail.com**
+I'm a **Python & Web Developer** passionate about building scalable apps, automation tools, and data-driven projects.  
+I love exploring new technologies, contributing to open-source, and solving real-world problems with code.
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
