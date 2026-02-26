@@ -61,16 +61,10 @@ I love exploring new technologies, contributing to open-source, and solving real
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>  </p>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberfortify&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="cyberfortify" /></p>
 
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfortify&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="cyberfortify" /></p>
       
-<p align="left"> <a href="#" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 Follow us [cyberfortify](https://github.com/cyberfortify)
